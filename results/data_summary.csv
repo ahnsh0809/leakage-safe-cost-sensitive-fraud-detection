@@ -1,0 +1,11 @@
+metric,value
+rows,1296675
+columns,26
+fraud_count,7506
+fraud_rate,0.005788651743883394
+unique_cards,983
+unique_merchants,693
+start_date,2019-01-01 00:00:18
+end_date,2020-06-21 12:13:37
+complete_duplicates,0
+transaction_id_duplicates,0

@@ -1,0 +1,18 @@
+{
+    "train_ratio": 0.6,
+    "calibration_ratio": 0.15,
+    "validation_ratio": 0.1,
+    "test_ratio": 0.15,
+    "purge_hours": 24,
+    "train_boundary_unix": 1354217833,
+    "calibration_boundary_unix": 1359385476,
+    "validation_boundary_unix": 1365011684,
+    "train_start": "2019-01-01 00:00:18",
+    "train_end": "2019-11-29 07:35:17",
+    "calibration_start": "2019-11-30 07:37:20",
+    "calibration_end": "2020-01-28 03:04:27",
+    "validation_start": "2020-01-29 03:06:41",
+    "validation_end": "2020-04-03 05:52:32",
+    "test_start": "2020-04-04 05:55:26",
+    "test_end": "2020-06-21 12:13:37"
+}

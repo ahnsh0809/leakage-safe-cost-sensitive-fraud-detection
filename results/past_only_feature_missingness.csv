@@ -1,0 +1,16 @@
+feature,missing_rate
+card_amt_zscore_before,0.00207708641657551
+card_amt_mean_before,0.001225146386976385
+card_time_since_prev_hours,0.001225146386976385
+card_amt_std_before,0.001225146386976385
+card_amt_ratio_to_mean,0.001225146386976385
+merchant_amt_mean_before,0.0008918345022842803
+card_has_history,0.0
+card_tx_count_before,0.0
+card_merchant_pair_count_before,0.0
+card_distinct_merchants_before,0.0
+card_new_merchant,0.0
+card_category_pair_count_before,0.0
+card_new_category,0.0
+card_distinct_categories_before,0.0
+merchant_tx_count_before,0.0

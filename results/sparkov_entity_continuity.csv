@@ -1,0 +1,4 @@
+split,unique_cards,cards_seen_in_train,cards_not_seen_in_train,unique_merchants,merchants_seen_in_train,merchants_not_seen_in_train
+calibration,918,908,10,693,693,0
+validation,914,908,6,693,693,0
+test,923,908,15,693,693,0

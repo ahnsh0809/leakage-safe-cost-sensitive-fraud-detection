@@ -1,0 +1,9 @@
+policy,days,mean_alerts,median_alerts,min_alerts,max_alerts,total_detected_frauds
+Benefit Top-10,65,8.692307692307692,10.0,2,10,452
+Benefit Top-25,65,14.492307692307692,15.0,2,25,698
+Benefit Top-5,65,4.815384615384615,5.0,2,5,268
+Benefit Top-50,65,15.476923076923077,15.0,2,42,742
+Probability Top-10,65,10.0,10.0,10,10,480
+Probability Top-25,65,25.0,25.0,25,25,741
+Probability Top-5,65,5.0,5.0,5,5,282
+Probability Top-50,65,50.0,50.0,50,50,818

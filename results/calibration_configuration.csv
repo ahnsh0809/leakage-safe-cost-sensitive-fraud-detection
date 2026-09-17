@@ -1,0 +1,9 @@
+setting,value
+selected_underlying_model,Unweighted LightGBM
+selected_calibration_method,Isotonic
+calibration_selection_primary_metric,Validation Brier Score
+calibration_selection_secondary_metric,Validation Log Loss
+calibration_rows,192249
+calibration_fraud_rate,0.00478025893502697
+validation_rows,128128
+validation_fraud_rate,0.006579358141858142

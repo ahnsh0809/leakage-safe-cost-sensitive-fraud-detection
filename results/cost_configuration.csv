@@ -1,0 +1,11 @@
+setting,value
+selected_imbalance_strategy,Unweighted LightGBM
+selected_calibration_method,Isotonic
+base_cost_threshold,0.092
+f1_threshold,0.5811085292587375
+base_no_alert_proxy_cost,236466.02999999997
+base_loss_rate,0.5
+base_incident_cost,10.0
+base_review_cost,2.0
+base_friction_cost,10.0
+base_intervention_effectiveness,0.85

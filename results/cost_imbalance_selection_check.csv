@@ -1,0 +1,4 @@
+strategy,validation_pr_auc
+Unweighted LightGBM,0.9285856407042714
+Undersampled LightGBM,0.9231410118040965
+Weighted LightGBM,0.9059614490491927

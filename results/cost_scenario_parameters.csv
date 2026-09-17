@@ -1,0 +1,5 @@
+scenario,loss_rate,incident_cost,review_cost,friction_cost,intervention_effectiveness
+low,0.25,5.0,1.0,3.0,0.7
+base,0.5,10.0,2.0,10.0,0.85
+high_loss,1.0,20.0,3.0,10.0,0.95
+high_friction,0.5,10.0,3.0,30.0,0.85

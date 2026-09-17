@@ -1,0 +1,7 @@
+setting,value
+train_legitimate_count,772466
+train_fraud_count,4584
+scale_pos_weight,168.51352530541013
+undersample_legitimate_to_fraud_ratio,5
+undersampled_train_rows,27504
+selected_strategy_by_validation_pr_auc,Unweighted LightGBM
